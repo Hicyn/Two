@@ -3,4 +3,8 @@
     <string name="num">Input the Celsius temperature</string>
     <string name="button">Convert to Fahrenheit</string>
     <string name="result">"The result: "</string>
+    <string name="lable_add1">+1 point</string>
+    <string name="lable_add2">+2 points</string>
+    <string name="lable_add3">+3 points</string>
+    <string name="btn_reset_label">Reset</string>
 </resources>
