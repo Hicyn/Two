@@ -7,4 +7,5 @@
     <string name="lable_add2">+2 points</string>
     <string name="lable_add3">+3 points</string>
     <string name="btn_reset_label">Reset</string>
+    <string name="btn_dollar_label">Dollar</string>
 </resources>
