@@ -16,4 +16,7 @@
     <string name="btn_opencfg_label">Config</string>
     <string name="btn_save_label">Save</string>
     <string name="menu_set_label">Setting</string>
+    <string name="label_open_list">OpenList</string>
+    <string name="laber_word">Input key words</string>
+    <string name="label_button_query">Query</string>
 </resources>
